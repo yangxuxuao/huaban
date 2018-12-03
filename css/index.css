@@ -1,0 +1,268 @@
+*{
+	padding: 0;
+	margin:0;
+	list-style: none;
+	text-decoration: none;
+}
+html{
+	font-size: 12px;
+}
+nav{
+	width: 10rem;
+	height:1.226667rem;
+	display: flex;
+	justify-content: space-between;
+}
+.left{
+	margin-left: 0.266667rem;
+	width:2rem;
+	height:1.226667rem;
+	display: flex;
+	justify-content: space-between;
+}
+.left>div{
+	width: 0.7rem;
+	height: 1.226667rem;
+    background: url(http://huaban.com/img/mobile/2x/huaban_logo.png) 0 center no-repeat;
+    background-size: 2.0rem;
+}
+.left>span{
+	display: inline-block;
+	width: 1.226667rem;
+	height: 1.226667rem;
+	line-height: 1.226667rem;
+	font-size: 0.48rem;
+}
+.right{
+	width:1.7rem;
+	height:1.226667rem;
+	line-height:1.4rem;
+}
+.right>img{
+	width:0.586667rem; 
+	height: 0.586667rem;
+}
+.focusOn{
+	width: 10.0rem;
+	height: 0.8rem;
+	line-height:0.8rem;
+    background: #fafafa;
+    text-align: center;
+    color: #ccc;
+    font-size: 0.373333rem;
+}
+.six{
+	width:9.466667rem;
+	height:3.306667rem;
+	margin:0.266667rem;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.sixall{
+	width: 3.105067rem;
+	height: 1.6rem;
+	text-align: center;
+	line-height: 1.6rem;
+	font-size: 0.426667rem;
+    color: #fff;
+}
+.six1{
+	background: url(http://hbimg.b0.upaiyun.com/a53ea57a739c9f4fa9aa77394961853931dc1e2715283-XM1v5G_sq236bl4) no-repeat;
+	background-size: 100% 100%;
+}
+.six2{
+	background: url(http://hbimg.b0.upaiyun.com/9559295ad43e5d779e927b1ab2da09c5cdb723ed113881-EptTqM_sq236bl4) no-repeat;
+	background-size: 100%;
+}
+.six3{
+	background: url(http://hbimg.b0.upaiyun.com/a7316132182a5edad0b594828e8b706d9ac63cd3ece5-timOkU_sq236bl4) no-repeat;
+}
+.six4{
+	background: url(http://hbimg.b0.upaiyun.com/c5fbcac28a48949fdfda427ac566788561c596601a0ae-OpoapM_sq236bl4) no-repeat;
+}
+.six5{
+	background: url(http://hbimg.b0.upaiyun.com/8bbb0b9c3285f08c413dca26121641d9211206601b773-CrKD14_sq236bl4) no-repeat;
+}
+.six6{
+	background: url(http://hbimg.b0.upaiyun.com/eff5b6fae87887c6fb87a4b32a1aab1e05e5c109f8ea-tnnfuL_sq236bl4) no-repeat;
+}
+.six1,.six2,.six4,.six5{
+	margin-right: 0.075733rem;
+}
+.six4,.six5,.six6{
+	margin-top: 0.053333rem;
+}
+.all{
+	width: 9.466667rem;
+	height: 38.425067rem;
+	margin:0.266667rem auto;
+}
+.three,.lthree{
+	width: 9.466667rem;
+	height: 6.285867rem;
+	margin-bottom: 0.094587rem;
+	display: flex;
+	justify-content: space-between;
+}
+.threeall{
+	width: 6.285867rem;
+	height: 6.285867rem; 
+}
+.three1{
+	background:url(http://hbimg.b0.upaiyun.com/fa1fc9c40f284a1afb25942e0842aca95354f94c25539-JIp7xH_sq320) no-repeat center center;
+	background-size:100% 100%;
+}
+
+.three2,.lthree2{
+	width: 3.105067rem;
+	height: 6.285867rem;
+	display: flex;
+	flex-wrap: wrap;
+}
+c
+.three2_1{
+	background: url(http://hbimg.b0.upaiyun.com/761c128f98b92d1cd0eb4cf6e321b5b45e54918862169-B47dlW_sq320) no-repeat center center;
+	background-size:100% 100%; 
+}
+.three2_2{
+	
+	margin-top: 0.05584rem;
+	padding:0.266667rem;
+	box-sizing: border-box;
+}
+h2{
+	height: 0.56rem;
+	width: 100%;
+	font-size: 0.426667rem;
+	color: #444;
+}
+.div3{
+	width: 6.285867rem;
+	height:1.333333rem;
+	margin-top:5rem;
+	display: flex;
+	justify-content: space-between;
+}
+.div4{
+	width: 0.72rem;
+	height: 0.96rem;
+	margin: 0 0.266667rem;
+}
+.div41{
+	background: url(http://huaban.com/img/mobile/new_index/box_title_sprite_mb@2x.png) 0 0 no-repeat;
+    background-size: 4.16rem 2.08rem;
+}
+.div42{
+	background: url(http://huaban.com/img/mobile/new_index/box_title_sprite_mb@2x.png) -3.2rem 0 no-repeat;
+    background-size: 4.16rem 2.08rem;
+
+}
+
+.div5{
+	width:5.1392rem;
+	height: 100%; 
+}
+.div1{
+	width: 100%;
+	height: 0.746667rem;
+	line-height:  0.346667rem;
+}
+.span1,.span2{
+	font-size: 0.32rem;
+    color: #999;
+    margin-right: 0.266667rem;
+}
+.div2{
+	width: 0.96rem;
+	height: 0.48rem;
+    margin-top: 0.8rem;
+    margin-left: 0px;
+}
+.div21{
+	background: url(http://huaban.com/img/mobile/new_index/box_title_sprite_mb@2x.png) 0 -1.6rem no-repeat;
+	background-size: 4.16rem 2.08rem;
+}
+.div22{
+	background: url(http://huaban.com/img/mobile/new_index/box_title_sprite_mb@2x.png) -3.2rem -1.6rem no-repeat;
+	background-size: 4.16rem 2.08rem;
+}
+.lthree1{
+	background:url(http://hbimg.b0.upaiyun.com/1cdde0aae6867b9979d1242b23e2a311a745fe9f4e42-PWjJ2K_sq320) no-repeat center center;
+	background-size:100% 100%;
+}
+.lthree2_1{
+	background: url(http://hbimg.b0.upaiyun.com/64afe3f5949a8e1c8b295464a4de3b0a035f4495e7d0-vNg14r_sq320) no-repeat center center;
+	background-size:100% 100%; 
+}
+.lthree2_2{
+	margin-top: 0.05584rem;
+	padding:0.266667rem;
+	box-sizing: border-box;
+}
+
+.three3{
+	background:url(http://hbimg.b0.upaiyun.com/ea29345345688d3b91f1fd420fa00f271f2e410613ebc-mEhT3v_sq320) no-repeat center center;
+	background-size:100% 100%;
+}
+.three3_1{
+	background: url(http://hbimg.b0.upaiyun.com/7d0300b5938857ae18a3da40e7c8e190e3192adb17148-D3XxBz_sq320) no-repeat center center;
+	background-size:100% 100%; 
+}
+.three3_2{
+	margin-top: 0.05584rem;
+	padding:0.266667rem;
+	box-sizing: border-box;
+}
+.lthree4{
+	background:url(http://hbimg.b0.upaiyun.com/d6806257307b2a699b1ba1e8842d4d893c053917323e4-yotoHi_sq320) no-repeat center center;
+	background-size:100% 100%;
+}
+.lthree4_1{
+	background: url(http://hbimg.b0.upaiyun.com/42823b01dda522da26106df9930c0c5acb21a4f3132bc-60JlOd_sq320) no-repeat center center;
+	background-size:100% 100%; 
+}
+.lthree4_2{
+	margin-top: 0.05584rem;
+	padding:0.266667rem;
+	box-sizing: border-box;
+}
+.three5{
+	background:url(http://hbimg.b0.upaiyun.com/241398285b137a4787d02b99c1e103f755d67e3818a7c-jPB83Z_sq320) no-repeat center center;
+	background-size:100% 100%;
+}
+.three5_1{
+	background: url(http://hbimg.b0.upaiyun.com/919351323740eda26fc5e1e4acf600cb43c22d337abc-5dTP8p_sq320) no-repeat center center;
+	background-size:100% 100%; 
+}
+.three5_2{
+	margin-top: 0.05584rem;
+	padding:0.266667rem;
+	box-sizing: border-box;
+}
+.lthree6{
+	background:url(http://hbimg.b0.upaiyun.com/3e1247e78d3f3fbe744acf4908be5ee36212fd1d1852b-DHtPYL_sq320) no-repeat center center;
+	background-size:100% 100%;
+}
+.lthree6_1{
+	background: url(http://hbimg.b0.upaiyun.com/f9129f9a7e9d8dc57ab665993174c267906d79641a37b-i3CBxI_sq320) no-repeat center center;
+	background-size:100% 100%; 
+}
+.lthree6_2{
+	margin-top: 0.05584rem;
+	padding:0.266667rem;
+	box-sizing: border-box;
+}
+.loading{
+	width:9.466667rem;
+    height: 1.173333rem;
+    margin: 0.0rem auto 0.266667rem;
+    line-height: 1.173333rem;
+    background: #f4f4f4;
+    text-align: center;
+    font-size: 0.48rem;
+}
+.loading>a{
+	color: #444;
+}
